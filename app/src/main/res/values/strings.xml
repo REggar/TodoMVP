@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="main_inputhint">What would you like to do?</string>
+    <string name="main_adddescription">Add</string>
+    <string name="main_incomplete">Incomplete</string>
+    <string name="main_complete">Complete</string>
+    <string name="mainmenu_clear">Remove Completed Items</string>
+</resources>
